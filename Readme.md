@@ -1,6 +1,7 @@
 # Pacmen
 
 Project that adds new "Pacmen" to the dom as the user clicks "Add PacMan" and animates them as soon as the user clicks "Start Game"
+To run just go in <a href="https://jfdlv.github.io/pacmen/">here</a> or clone the project and open index.html file on your browser.
 
 Done with vanilla Javascript and HTML.
 <div style="margin-top: 10px">
