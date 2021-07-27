@@ -12,3 +12,9 @@ Done with vanilla Javascript and HTML.
   <img src="./images/PacMan3.png" style="display:inline-block;width: 49%">
   <img src="./images/PacMan4.png" style="display:inline-block;width: 49%">
 </div>
+
+## How to run
+
+Clone/Download the repo and open the index.html file on your browser.
+
+## License Information
