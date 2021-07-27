@@ -18,3 +18,5 @@ Done with vanilla Javascript and HTML.
 Clone/Download the repo and open the index.html file on your browser.
 
 ## License Information
+
+See [LICENSE](https://github.com/jfdlv/pacmen/blob/main/LICENSE) file
